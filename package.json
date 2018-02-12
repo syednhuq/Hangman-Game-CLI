@@ -1,0 +1,27 @@
+{
+  "name": "HangmanGameCLI",
+  "version": "1.0.0",
+  "description": "HANGMAN CLI GAME using the command line",
+  "main": "main.js",
+  "dependencies": {
+    "inquirer": "^1.2.1",
+    "is-letter": "^1.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syednhuq/Hangman-Game-CLI.git"
+  },
+  "keywords": [
+    "constructor",
+    "hangman"
+  ],
+  "author": "Syed Huq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syednhuq/Hangman-Game-CLI/issues"
+  },
+  "homepage": "https://github.com/syednhuq/Hangman-Game-CLI#readme"
+}
